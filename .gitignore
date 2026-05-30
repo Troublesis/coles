@@ -13,3 +13,6 @@ wheels/
 .env
 state.json
 urls.txt
+
+# Cron logs
+logs/
